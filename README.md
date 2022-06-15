@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epinefrit
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning JS FrontEnd
 
 <!---
 epinefrit/epinefrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
